@@ -39,5 +39,6 @@ This project presents an interactive Power BI dashboard analyzing global sales p
 3. Use filters to explore insights
 
 ## 🔹 Author
+Srikar Chowdary
 
 Your Name
