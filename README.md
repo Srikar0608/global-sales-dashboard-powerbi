@@ -29,8 +29,8 @@ This project presents an interactive Power BI dashboard analyzing global sales p
 
 ## 🔹 Dashboard Preview
 
-## 🔹 Dashboard Preview
-![Dashboard Screenshot](dashboard.png)
+<img width="1851" height="887" alt="image" src="https://github.com/user-attachments/assets/5b505775-c717-4ac5-b94a-3b266f3591d1" />
+
 
 ## 🔹 How to Use
 
